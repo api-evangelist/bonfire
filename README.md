@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bonfire is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://bonfire.com/
+Bonfire is an online platform that enables individuals, creators, and organizations to design, sell, and fundraise through custom merchandise. Users can create custom t‑shirts, hoodies, accessories, and more, with Bonfire handling printing, shipping, and customer support. The service supports both personal storefronts and nonprofit fundraising campaigns, offering tools for product design, order management, and integrated payment processing.
+
+**Areas:** Company · E‑commerce · Merchandising · Fundraising · Custom Design
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bonfire.com/)
+- [Documentation](https://help.bonfire.com/)
+- [Getting started](https://help.bonfire.com/en/articles/15935998-complete-your-setup-checklist)
+- [Sign up](https://www.bonfire.com/registered-nurse-most-old-men-would-have-give/)
+- [Support](https://help.bonfire.com/en/)
+- [Blog](https://www.bonfire.com/blog/)
+- [Terms of service](https://www.bonfire.com/terms-and-conditions/)
+- [Privacy policy](https://www.bonfire.com/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bonfire/](https://apis.io/providers/bonfire/).
